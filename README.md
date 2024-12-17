@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,java,cpp,postgres,spring,hibernate,docker,arduino,idea,vscode&theme=light&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,java,cpp,postgres,spring,hibernate,docker,arduino,idea&theme=light&perline=5" />
   </a>
 </p>
 
@@ -25,14 +25,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VeagleV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeagleV&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeagleV&layout=compact&theme=tokyonight" alt = "Top Languages"/>
 </p>
 
 ### 🛠️ **Проекты**
 
 - [**Проект 1**](https://github.com/VeagleV/managmentApp) - аналог Jira.
 - [**Проект 2**](https://github.com/VeagleV/VetApp) - приложение для Вет. клиники.
-- [**Проект 3**](ссылка-на-репозиторий) - Краткое описание проекта.
+- [**Проект 3**](ссылка-на-репозиторий) - пока пусто(
 
 ---
 
@@ -49,6 +49,12 @@
 
 ---
 
-### 💡 **Цитата дня**
+### 💡 **Любимые цитаты**
 
 > "Java — это язык, который позволяет вам писать один раз и запускать везде." — *Джеймс Гослинг*
+
+> "Программирование — это искусство, а не наука." - *Мартин Фаулер*
+
+> "Java — это не просто синтаксис, это философия, которая учит нас писать чистый и понятный код." - *Герберт Шилдт*
+
+> "Программирование — это не просто работа, это способ мышления." - *Мартин Фаулер*
