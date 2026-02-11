@@ -22,8 +22,7 @@
 ### 📊 **Статистика профиля**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeagleV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeagleV&layout=compact&theme=tokyonight" alt = "Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeagleV&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ **Проекты**
